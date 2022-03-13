@@ -1,6 +1,8 @@
 namespace Chess;
 using System.Collections.Generic;
 
+// comment to test git
+
 class Position{
     public static int BlackQueenside = 0;
     public static int BlackKingside = 1;
